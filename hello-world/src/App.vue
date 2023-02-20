@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="I am your farther"/>
+  <HelloWorld msg="Tester GIT"/>
 </template>
 
 <script>
